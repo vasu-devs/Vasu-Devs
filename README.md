@@ -12,9 +12,9 @@
 
 ```
 
-**Full Stack Developer × AI Engineer**
+**Full Stack AI Engineer**
 
-Building scalable web apps and intelligent systems
+Engineering scalable, end-to-end web architectures driven by agentic RAG, multimodal intelligence, and autonomous multi-agent workflows.
 
 </div>
 
