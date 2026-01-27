@@ -14,7 +14,7 @@
 
 **Full Stack AI Engineer**
 
-Engineering Scalable web engineering fused with autonomous, multimodal agentic intelligence.
+Scalable web engineering fused with autonomous, multimodal agentic intelligence.
 
 </div>
 
