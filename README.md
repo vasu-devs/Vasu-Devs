@@ -14,7 +14,7 @@
 
 **Full Stack AI Engineer**
 
-Engineering scalable, end-to-end web architectures driven by agentic RAG, multimodal intelligence, and autonomous multi-agent workflows.
+Engineering Scalable web engineering fused with autonomous, multimodal agentic intelligence.
 
 </div>
 
